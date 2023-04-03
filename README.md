@@ -1,5 +1,5 @@
 # Students-Academic-Performance-Classification-model
-This model is build to predict a student final grade in a paticular course using the Students' Academic Performance Dataset.
+This model is build using random forest algorithm and it's job is to predict a student final grade in a paticular course using the Students' Academic Performance Dataset.
 
 The dataset consists of 480 student records (number of instances) and 16 features (number of attributes). The features are classified into three major categories:
 
